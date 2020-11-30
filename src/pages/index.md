@@ -4,7 +4,7 @@ meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
 sections:
   - type: section_hero
-    title: This is not real
+    title: Hello Madi
     section_id: hero
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
